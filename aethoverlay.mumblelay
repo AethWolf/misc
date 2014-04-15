@@ -2,12 +2,12 @@
 version=1.2.5
 show=0
 alwaysself=false
-x=@Variant(\0\0\0\x87?^\xbd|)
+x=@Variant(\0\0\0\x87?\\\xb9t)
 y=@Variant(\0\0\0\x87>\x96\x82Z)
-states\2\color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xff\xff\x7f\x7f\0\0)
-userfont=@Variant(\0\0\0@\0\0\0\x12\0T\0\x46\0\x32\0 \0\x42\0u\0i\0l\0\x64@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
-fpsfont=@Variant(\0\0\0@\0\0\0\x12\0T\0\x46\0\x32\0 \0\x42\0u\0i\0l\0\x64@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
-fpscolor=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xff\xff\x7f\x7f\0\0)
+states\2\color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xdd\xdd\0\0\0\0)
+userfont=@Variant(\0\0\0@\0\0\0\x10\0P\0o\0s\0t\0\x66\0\x61\0\x63\0\x65@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
+fpsfont=@Variant(\0\0\0@\0\0\0\x10\0P\0o\0s\0t\0\x66\0\x61\0\x63\0\x65@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
+fpscolor=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xdd\xdd\0\0\0\0)
 avatarshow=false
 boxshow=false
 mutedshow=false
