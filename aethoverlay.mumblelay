@@ -1,14 +1,16 @@
 [overlay]
-version=1.2.5
+version=1.2.8
 show=0
 alwaysself=false
-x=@Variant(\0\0\0\x87?\\\xb9t)
-y=@Variant(\0\0\0\x87>\x96\x82Z)
-states\2\color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xdd\xdd\0\0\0\0)
-userfont=@Variant(\0\0\0@\0\0\0\x10\0P\0o\0s\0t\0\x66\0\x61\0\x63\0\x65@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
-fpsfont=@Variant(\0\0\0@\0\0\0\x10\0P\0o\0s\0t\0\x66\0\x61\0\x63\0\x65@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
-fpscolor=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xdd\xdd\0\0\0\0)
+x=@Variant(\0\0\0\x87?^<z)
+y=@Variant(\0\0\0\x87>A\x83\x6)
+states\2\color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xff\xff\x7f\x7f\0\0)
+userfont=@Variant(\0\0\0@\0\0\0\x12\0T\0\x46\0\x32\0 \0\x42\0u\0i\0l\0\x64@R\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
+fpsfont=@Variant(\0\0\0@\0\0\0\x12\0T\0\x46\0\x32\0 \0\x42\0u\0i\0l\0\x64@4\0\0\0\0\0\0\xff\xff\xff\xff\x5\x1\0\x32\x10)
+fpscolor=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xff\xff\x7f\x7f\0\0)
 avatarshow=false
 boxshow=false
 mutedshow=false
 userrect=@Variant(\0\0\0\x14?NW:\xc9\x1\xe5t\xbf\x8eW:\xc9\x1\xe5t?\xd0\xf+\x9d\x64\x80\xf3?\xa0[\x5\xb0[\x5\xb1)
+padding=0
+fillcolor=@Variant(\0\0\0\x43\x1\x80\x80\0\0\0\0\0\0\0\0)
